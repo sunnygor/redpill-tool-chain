@@ -3,8 +3,8 @@
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "1890PDN764315",
-        "mac1": "00:11:32:9A:5A:81"，
-        "netif_num": "1"，
+        "mac1": "00:11:32:9A:5A:81",
+        "netif_num": "1",
         "SataPortMap": "00",
         "DiskIdxMap": "6",
         "SasIdxMap":"0"       
